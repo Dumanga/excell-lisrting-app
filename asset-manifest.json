@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excell-listing-app/static/css/main.e6c13ad2.css",
+    "main.js": "/excell-listing-app/static/js/main.c8c07c74.js",
+    "static/js/488.0690dca6.chunk.js": "/excell-listing-app/static/js/488.0690dca6.chunk.js",
+    "index.html": "/excell-listing-app/index.html",
+    "main.e6c13ad2.css.map": "/excell-listing-app/static/css/main.e6c13ad2.css.map",
+    "main.c8c07c74.js.map": "/excell-listing-app/static/js/main.c8c07c74.js.map",
+    "488.0690dca6.chunk.js.map": "/excell-listing-app/static/js/488.0690dca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c8c07c74.js"
+  ]
+}
